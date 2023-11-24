@@ -6,9 +6,9 @@ This project is designed to perform various image manipulation operations using 
 ## Table of Contents 
 - [Features](#features)
 - [Usage](#usage)
-- [How to Run](#how-to-use)
-- [Examples](https://github.com/ishanavasthi/image-editor/EXAMPLES.md)
-- [Working](https://github.com/ishanavasthi/image-editor/WORKING.md)
+- [How to Run](#how-to-run)
+- [Examples](https://github.com/ishanavasthi/image-editor/blob/main/EXAMPLES.md)
+- [Working](https://github.com/ishanavasthi/image-editor/blob/main/WORKING.md)
 
 ## Features
 This Image Editor provides the following features: 
@@ -34,3 +34,7 @@ To run this Image Editor, make sure you have Java installed on your system. Foll
 2. Navigate to the directory where the ImageEditor.java file is located. 
 3. Compile the Java file using the following command: `javac ImageEditor.java`
 4. Run the program using the following command: `java ImageEditor`
+
+## Acknowledgement
+
+I'm deeply grateful to my professor, [@kshitijmishra23](https://github.com/kshitijmishra23) for his invaluable guidance and support during this project.
