@@ -1,13 +1,14 @@
 # JAVA IMAGE EDITOR
+
 ## Introduction
 This project is designed to perform various image manipulation operations using Java. It offers features like grayscale conversion, brightness adjustment, rotation, and blurring.
 
 ## Table of Contents 
-- [Features](https://github.com/ishanavasthi/image-editor/edit/main/README.md#features)
-- [Usage]()
-- [How to Run[()
-- [Examples](https://github.com/ishanavasthi/image-editor/edit/main/EXAMPLES.md)
-- [Working](https://github.com/ishanavasthi/image-editor/edit/main/WORKING.md)
+- [Features](#features)
+- [Usage](#usage)
+- [How to Run](#how-to-use)
+- [Examples](https://github.com/ishanavasthi/image-editor/EXAMPLES.md)
+- [Working](https://github.com/ishanavasthi/image-editor/WORKING.md)
 
 ## Features
 This Image Editor provides the following features: 
